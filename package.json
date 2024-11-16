@@ -1,0 +1,28 @@
+{
+  "name": "nscet-transport-eserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Binary-Beast-01/NSCET-TRANSPORT-ESERVER.git"
+  },
+  "author": "Binary-Beast-01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Binary-Beast-01/NSCET-TRANSPORT-ESERVER/issues"
+  },
+  "homepage": "https://github.com/Binary-Beast-01/NSCET-TRANSPORT-ESERVER#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "firebase": "^9.15.0",
+    "firebase-admin": "^11.4.0",
+    "graphhopper-js-api-client": "^5.0.2"
+  }
+}
